@@ -2,7 +2,7 @@
   "name": "Mi PWA",
   "short_name": "PWA",
   "description": "Descripción de mi PWA",
-  "start_url": "/index.html",
+  "start_url": "https://start-test_prueba.toddle.site/",
   "display": "standalone",
   "background_color": "#ffffff",
   "theme_color": "#000000",
