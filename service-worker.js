@@ -1,7 +1,7 @@
 const CACHE_NAME = 'mi-pwa-cache-v1';
 const urlsToCache = [
   '/',
-  '/index.html',
+  'https://start-test_prueba.toddle.site/',
   '/styles.css',
   '/app.js',
   '/cdn-cgi/imagedelivery/ZIty0Vhmkm0nD-fBKJrTZQ/test_prueba:NullCode.png/128',
