@@ -1,11 +1,11 @@
 const CACHE_NAME = 'mi-pwa-cache-v1';
 const urlsToCache = [
   '/',
-  'https://start-test_prueba.toddle.site/',
+  'https://tasksai.toddle.site/',
   '/styles.css',
   '/app.js',
-  '/cdn-cgi/imagedelivery/ZIty0Vhmkm0nD-fBKJrTZQ/test_prueba:NullCode.png/128',
-  '/cdn-cgi/imagedelivery/ZIty0Vhmkm0nD-fBKJrTZQ/test_prueba:NullCode.png/540'
+  'https://tasksai.toddle.site/cdn-cgi/imagedelivery/ZIty0Vhmkm0nD-fBKJrTZQ/azure_qui_gon_jinn_industrial_chinchilla:NullCode.png/128',
+  'https://tasksai.toddle.site//cdn-cgi/imagedelivery/ZIty0Vhmkm0nD-fBKJrTZQ/azure_qui_gon_jinn_industrial_chinchilla:NullCode.png/540'
 ];
 
 // Instalación del Service Worker y almacenamiento en caché
