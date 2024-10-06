@@ -1,19 +1,19 @@
 {
-  "name": "Mi PWA",
-  "short_name": "PWA",
-  "description": "Descripción de mi PWA",
-  "start_url": "https://start-test_prueba.toddle.site/",
+  "name": "Creador de tarea",
+  "short_name": "Crear tarea",
+  "description": "Se crean las tareas con inteligencia artificial",
+  "start_url": "https://tasksai.toddle.site/",
   "display": "standalone",
-  "background_color": "#ffffff",
-  "theme_color": "#000000",
+  "background_color": "#171717",
+  "theme_color": "#171717",
   "icons": [
     {
-      "src": "https://start-test_prueba.toddle.site/cdn-cgi/imagedelivery/ZIty0Vhmkm0nD-fBKJrTZQ/test_prueba:NullCode.png/256",
+      "src": "https://tasksai.toddle.site/cdn-cgi/imagedelivery/ZIty0Vhmkm0nD-fBKJrTZQ/azure_qui_gon_jinn_industrial_chinchilla:NullCode.png/128",
       "sizes": "128x128",
       "type": "image/png"
     },
     {
-      "src": "https://start-test_prueba.toddle.site/cdn-cgi/imagedelivery/ZIty0Vhmkm0nD-fBKJrTZQ/test_prueba:NullCode.png/540",
+      "src": "https://tasksai.toddle.site//cdn-cgi/imagedelivery/ZIty0Vhmkm0nD-fBKJrTZQ/azure_qui_gon_jinn_industrial_chinchilla:NullCode.png/540",
       "sizes": "540x540",
       "type": "image/png"
     }
